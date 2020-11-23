@@ -1,4 +1,4 @@
-## Hi there! My name is Matt and I'm a freelance Data Analyst in Texas U+1F3F4 👋
+## Hi there! My name is Matt and I'm a freelance Data Analyst in Texas 👋
 
 <!--
 **mattblasa/mattblasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
