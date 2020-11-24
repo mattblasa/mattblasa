@@ -24,5 +24,9 @@ Here are some ideas to get you started:
 
 #### ⚡ Fun fact: I love math, especially trigonometry. 
 
+### 💬 Want to connect? 📫
+* LinkedIn: https://www.linkedin.com/in/mblasa/
+* Tableau Portfolio: https://public.tableau.com/profile/mblasa#!/
+
 
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=mattblasa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
