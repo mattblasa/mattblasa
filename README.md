@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 ⚡ Fun fact: ...
 -->
-## Hi there! My name is Matt and I'm a freelance Data Analyst in Texas 👋
+## Hi there! My name is Matt and I'm a Data Analyst in Texas 👋
 
 #### 🔭 I’m currently working on: Data Analysis, Statistics in Python
 
