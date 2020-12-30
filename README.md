@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### ⚡ Fun fact: I love math, especially trigonometry. 
 
 ### 💬 Want to connect? 📫
-* LinkedIn: https://www.linkedin.com/in/mblasa/
+
 * Tableau Portfolio: https://public.tableau.com/profile/mblasa#!/
 
 
