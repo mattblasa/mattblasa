@@ -50,5 +50,5 @@
 ### 🎓 Portfolio Links
 <p align="center">
 <a href="https://mattblasa.github.io"><img src="https://img.shields.io/badge/-mattblasa.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://public.tableau.com/profile/mblasa#!/"><img src="https://img.shields.io/badge/-Tableau%20Portfolio-9cf"/></a>
+<a href="https://public.tableau.com/profile/mblasa#!/"><img src="https://img.shields.io/badge/Matt's-Tableau%20Portfolio-yellow"/></a>
 </p>
