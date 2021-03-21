@@ -28,6 +28,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=spark)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
