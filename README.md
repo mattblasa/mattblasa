@@ -29,16 +29,16 @@ Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data S
 **Languages and Tools:**  
 
 <a href="https://codesandbox.io/u/mattblasa">
-  <img align="left" alt="Matt Blasa | Python" width="40px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/python.png" />
+  <img align="left" alt="Matt Blasa | Python" width="30px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/python.png" />
 </a>
 <a href="https://codesandbox.io/u/mattblasa">
   <img align="left" alt="Matt Blasa | Python" width="40px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/go.png" />
 </a>
 <a href="https://codesandbox.io/u/mattblasa">
-  <img align="left" alt="Matt Blasa | Python" width="40px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/R.png" />
+  <img align="left" alt="Matt Blasa | Python" width="30px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/R.png" />
 </a>
 <a href="https://codesandbox.io/u/mattblasa">
-  <img align="left" alt="Matt Blasa | Python" width="40px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/sql.jpg" />
+  <img align="left" alt="Matt Blasa | Python" width="50px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/sql.jpg" />
 </a>
 <a href="https://codesandbox.io/u/mattblasa">
   <img align="left" alt="Matt Blasa | Python" width="40px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/R.png" />
