@@ -40,8 +40,8 @@ Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data S
 <a href="https://codesandbox.io/u/mattblasa">
   <img align="left" alt="Matt Blasa | Python" width="60px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/sql.jpg" />
 </a>
-
-
+<br>
+<br>
 
 
 <!--- 
@@ -50,11 +50,12 @@ Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data S
 --->
 
 <!-- Change the `github-readme-stats.mattblasa1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<br>
-* NOTE: Top languages does not indicate my skill level. It's the most common languages used in the last mongth
 
 
-* Tableau Portfolio: https://public.tableau.com/profile/mblasa#!/
+<p>NOTE: Top languages does not indicate my skill level. It's the most common languages used in the last month</p>
+
+
+Tableau Portfolio: https://public.tableau.com/profile/mblasa#!/
 
 
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=mattblasa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/mattblasa/github-readme-stats)
