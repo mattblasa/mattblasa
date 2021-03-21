@@ -43,7 +43,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<!--
 <a href="https://www.linkedin.com/in/mblasa/"><img src="https://img.shields.io/badge/-Matthew%20Blasa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+-->
 <a href="mailto:mblasa@wgu.edu"><img src="https://img.shields.io/badge/-mblasa@wgu.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
