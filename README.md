@@ -16,8 +16,6 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -42,9 +40,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/mattblasa"><img src="https://img.shields.io/badge/Matthew%20Blasa-LinkedIn-blue"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Matthew%20Blasa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mblasa@wgu.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mattblasa"><img src="https://img.shields.io/badge/-Matthew%20Blasa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mblasa@wgu.edu"><img src="https://img.shields.io/badge/-mblasa@wgu.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-Tableau Portfolio: https://public.tableau.com/profile/mblasa#!/
 
+### 🎓 Portfolio Links
+<p align="center">
+<a href="https://public.tableau.com/profile/mblasa#!/"><img src="https://img.shields.io/badge/-Tableau%20Portfolio-9cf"/></a>
+</p>
