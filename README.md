@@ -29,12 +29,11 @@ Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data S
 **Languages and Tools:**  
 
 <a href="https://codesandbox.io/u/mattblasa">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/python.png" />
+  <img align="left" alt="Matt Blasa | Python" width="20px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/python.png" />
 </a>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<a href="https://codesandbox.io/u/mattblasa">
+  <img align="left" alt="Matt Blasa | Python" width="20px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/go.jpg" />
+</a>
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -44,32 +43,6 @@ Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data S
 <!-- Change the `github-readme-stats.mattblasa1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/mattblasa/github-readme-stats)*
-
-
-<a href="https://github.com/mattblasa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.mattblasa.vercel.app/api?username=mattblasa&show_icons=true&include_all_commits=true&theme=material-palenight" alt="matt's github stats" />
-</a>
-<a href="https://github.com/mattblasa/github-readme-stats">
-  <!-- Change the `github-readme-stats.mattblasa1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.mattblasa1.vercel.app/api/top-langs/?username=mattblasa&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/mattblasa/github-readme-stats">
-  <!-- Change the `github-readme-stats.mattblasa1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.mattblasa1.vercel.app/api/pin/?username=mattblasa&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/mattblasa/mattblasa.github.io">
-  <!-- Change the `github-readme-stats.mattblasa1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.mattblasa1.vercel.app/api/pin/?username=mattblasa&repo=mattblasa.github.io&theme=material-palenight" />
-</a>
-
-## Hi there! My name is Matt and I'm a Data Analyst in Texas 👋
-
-#### 🔭 I’m currently working on: Data Analysis, Statistics in Python
-
-#### 🌱 I’m currently learning: OOP programming in Python, Webscraping using Selenium, and SQL Alchemy
-
-#### ⚡ Fun fact: I love math, especially trigonometry. 
 
 
 * Tableau Portfolio: https://public.tableau.com/profile/mblasa#!/
