@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Anurag!](https://mattblasa.github.io) 👋
+### Hi there, I'm [Matt!](https://mattblasa.github.io) 👋
 
 
 Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data Scientist from Texas.
