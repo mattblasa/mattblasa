@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing my Masters in Data Science at Western Governors University
+🎓 &nbsp;I'm currently pursuing my Masters in Data Science at Western Governors University \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -27,6 +27,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=pyspark)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
