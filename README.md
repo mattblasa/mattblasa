@@ -11,7 +11,7 @@
 💡 &nbsp;I like to find different and innovative ways of learning to analyze, process, and find insights from data\
 🎓 &nbsp;I'm currently pursuing my Masters in Data Science at Western Governors University. \
 :office: &nbsp;Currently working for Brinks Home Security as a Data Governance Analyst, with a side gig as contract data scientist. \
-✍️ &nbsp;In my free time, I spend time practicing math.\
+✍️ &nbsp;In my free time, I spend time practicing math, and martial arts.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mblasa@wgu.edu! I'll try to respond as soon as I can.
 
