@@ -32,7 +32,7 @@ Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data S
   <img align="left" alt="Matt Blasa | Python" width="20px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/python.png" />
 </a>
 <a href="https://codesandbox.io/u/mattblasa">
-  <img align="left" alt="Matt Blasa | Python" width="20px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/go.png" />
+  <img align="left" alt="Matt Blasa | Python" width="40px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/go.png" />
 </a>
 
 <!--- 
