@@ -35,14 +35,12 @@ Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data S
   <img align="left" alt="Matt Blasa | Python" width="40px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/go.png" />
 </a>
 <a href="https://codesandbox.io/u/mattblasa">
-  <img align="left" alt="Matt Blasa | Python" width="30px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/R.png" />
-</a>
-<a href="https://codesandbox.io/u/mattblasa">
-  <img align="left" alt="Matt Blasa | Python" width="50px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/sql.jpg" />
-</a>
-<a href="https://codesandbox.io/u/mattblasa">
   <img align="left" alt="Matt Blasa | Python" width="40px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/R.png" />
 </a>
+<a href="https://codesandbox.io/u/mattblasa">
+  <img align="left" alt="Matt Blasa | Python" width="60px" src="https://raw.githubusercontent.com/mattblasa/mattblasa/master/assets/sql.jpg" />
+</a>
+
 
 
 
@@ -53,7 +51,7 @@ Hi, I'm Matt Blasa, a Data Analyst, Data Governance Analyst, and Contract Data S
 
 <!-- Change the `github-readme-stats.mattblasa1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <br>
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/mattblasa/github-readme-stats)*
+* NOTE: Top languages does not indicate my skill level. It's the most common languages used in the last mongth
 
 
 * Tableau Portfolio: https://public.tableau.com/profile/mblasa#!/
