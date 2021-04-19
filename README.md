@@ -33,14 +33,14 @@
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
+<!--
 <p align="center">
 <a href="https://github.com/mattblasa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mattblasa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mattblasa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
