@@ -33,6 +33,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
 
 
+### 🛠 &nbsp; Statistics
 <p align="center">
 <a href="https://github.com/mattblasa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mattblasa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
