@@ -43,16 +43,12 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
 <!--
 <a href="https://www.linkedin.com/in/mblasa/"><img src="https://img.shields.io/badge/-Matthew%20Blasa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 -->
 ![Gmail](https://img.shields.io/badge/mblasa@wgu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</p>
 
 ### 🎓 Portfolio Links
-<p align="center">
 <a href="https://mattblasa.github.io"><img src="https://img.shields.io/badge/-mattblasa.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <br>
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/mblasa)
-</p>
