@@ -50,7 +50,7 @@
 </p>
 
 ### 🎓 Portfolio Links
-<p align="center">
-
+<a href="https://mattblasa.github.io"><img src="https://img.shields.io/badge/-mattblasa.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<br>
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/mblasa)
 
