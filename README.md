@@ -10,7 +10,7 @@
 
 💡 &nbsp;I like to find different and innovative ways of analyzing, processing, and finding insights from data. \
 🎓 &nbsp;I'm currently pursuing my Masters in Data Science at Western Governors University. \
-:office: &nbsp;Currently working for Brinks Home Security as a Data Governance Analyst, with a side gig as contract data scientist. \
+:office: &nbsp;Currently working for Brinks Home Security as a Data Governance Analyst, with a side gig as a data scientist at a startup \
 ✍️ &nbsp;In my free time, I spend time practicing math and martial arts.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mblasa@wgu.edu! I'll try to respond as soon as I can.
@@ -29,6 +29,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 
 
 
