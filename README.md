@@ -51,4 +51,5 @@
 ### 🎓 Portfolio Links
 <a href="https://mattblasa.github.io"><img src="https://img.shields.io/badge/-mattblasa.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <br>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blaza.medium.com/)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/mblasa)
