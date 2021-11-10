@@ -43,9 +43,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<!--
 <a href="https://www.linkedin.com/in/mblasa/"><img src="https://img.shields.io/badge/-Matthew%20Blasa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
--->
 ![Gmail](https://img.shields.io/badge/mblasa@wgu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 🎓 Portfolio Links
