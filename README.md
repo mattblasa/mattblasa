@@ -48,7 +48,6 @@
 ![Gmail](https://img.shields.io/badge/mblasa@wgu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 🎓 Portfolio Links
-<a href="https://mattblasa.github.io"><img src="https://img.shields.io/badge/-mattblasa.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://mattblasa.github.io)
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/mblasa)
