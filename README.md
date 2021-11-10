@@ -44,7 +44,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blaza.medium.com/)
-<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mblasa/)
 ![Gmail](https://img.shields.io/badge/mblasa@wgu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
