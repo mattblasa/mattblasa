@@ -1,9 +1,6 @@
 ![](https://res.cloudinary.com/makotoevo/image/upload/v1616302556/Copy_of_Copy_of_Matthew_Blasa_3_elf932.png)
 
 
-
-<h2>Hey there! I'm Matt!</h2>
-
 <!-- ## 👋 &nbsp;Hey there! I'm Matt -->
 
 ### :dragon: &nbsp;About Me
