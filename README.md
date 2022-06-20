@@ -43,7 +43,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Check Out My Articles!
+### 🏞️ &nbsp;Check Out My Articles!
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blaza.medium.com/)
 
